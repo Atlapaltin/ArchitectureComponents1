@@ -44,7 +44,7 @@
                     android:layout_gravity="center"
                     android:adjustViewBounds="true"
                     android:contentDescription="@string/description_preview"
-                    tools:srcCompat="@tools:sample/avatars" />
+                    tools:srcCompat="@drawable/ava" />
 
                 <com.google.android.material.button.MaterialButton
                     android:id="@+id/clear"
